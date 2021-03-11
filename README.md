@@ -47,7 +47,16 @@ METHOD=DELETE
 http://localhost:3000/api/users/:id
 ```
 
+**DATABASE:**
 
+```
+For this project I used MongoDB cloud
+
+1.Create a New Cluster
+2.Add your connection string into your application code(under MONGO_URI in config.env)
+3.Connect your databse
+
+```
 
 
 
